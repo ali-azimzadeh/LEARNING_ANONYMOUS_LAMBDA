@@ -1,0 +1,16 @@
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_ANONYMOUS_LAMBDA\LEARNING_ANONYMOUS_LAMBDA\bin\Debug\net5.0\LEARNING_ANONYMOUS_LAMBDA.exe
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_ANONYMOUS_LAMBDA\LEARNING_ANONYMOUS_LAMBDA\bin\Debug\net5.0\LEARNING_ANONYMOUS_LAMBDA.deps.json
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_ANONYMOUS_LAMBDA\LEARNING_ANONYMOUS_LAMBDA\bin\Debug\net5.0\LEARNING_ANONYMOUS_LAMBDA.runtimeconfig.json
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_ANONYMOUS_LAMBDA\LEARNING_ANONYMOUS_LAMBDA\bin\Debug\net5.0\LEARNING_ANONYMOUS_LAMBDA.runtimeconfig.dev.json
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_ANONYMOUS_LAMBDA\LEARNING_ANONYMOUS_LAMBDA\bin\Debug\net5.0\LEARNING_ANONYMOUS_LAMBDA.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_ANONYMOUS_LAMBDA\LEARNING_ANONYMOUS_LAMBDA\bin\Debug\net5.0\ref\LEARNING_ANONYMOUS_LAMBDA.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_ANONYMOUS_LAMBDA\LEARNING_ANONYMOUS_LAMBDA\bin\Debug\net5.0\LEARNING_ANONYMOUS_LAMBDA.pdb
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_ANONYMOUS_LAMBDA\LEARNING_ANONYMOUS_LAMBDA\obj\Debug\net5.0\LEARNING_ANONYMOUS_LAMBDA.csproj.AssemblyReference.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_ANONYMOUS_LAMBDA\LEARNING_ANONYMOUS_LAMBDA\obj\Debug\net5.0\LEARNING_ANONYMOUS_LAMBDA.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_ANONYMOUS_LAMBDA\LEARNING_ANONYMOUS_LAMBDA\obj\Debug\net5.0\LEARNING_ANONYMOUS_LAMBDA.AssemblyInfoInputs.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_ANONYMOUS_LAMBDA\LEARNING_ANONYMOUS_LAMBDA\obj\Debug\net5.0\LEARNING_ANONYMOUS_LAMBDA.AssemblyInfo.cs
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_ANONYMOUS_LAMBDA\LEARNING_ANONYMOUS_LAMBDA\obj\Debug\net5.0\LEARNING_ANONYMOUS_LAMBDA.csproj.CoreCompileInputs.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_ANONYMOUS_LAMBDA\LEARNING_ANONYMOUS_LAMBDA\obj\Debug\net5.0\LEARNING_ANONYMOUS_LAMBDA.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_ANONYMOUS_LAMBDA\LEARNING_ANONYMOUS_LAMBDA\obj\Debug\net5.0\ref\LEARNING_ANONYMOUS_LAMBDA.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_ANONYMOUS_LAMBDA\LEARNING_ANONYMOUS_LAMBDA\obj\Debug\net5.0\LEARNING_ANONYMOUS_LAMBDA.pdb
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_ANONYMOUS_LAMBDA\LEARNING_ANONYMOUS_LAMBDA\obj\Debug\net5.0\LEARNING_ANONYMOUS_LAMBDA.genruntimeconfig.cache

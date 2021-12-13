@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LEARNING_ANONYMOUS_LAMBDA", "LEARNING_ANONYMOUS_LAMBDA\LEARNING_ANONYMOUS_LAMBDA.csproj", "{9BD8E1BB-857B-459C-8B26-80674B10AD2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BD8E1BB-857B-459C-8B26-80674B10AD2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD8E1BB-857B-459C-8B26-80674B10AD2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD8E1BB-857B-459C-8B26-80674B10AD2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD8E1BB-857B-459C-8B26-80674B10AD2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D90FB8FB-A687-4141-99FA-82CA502DEB1C}
+	EndGlobalSection
+EndGlobal
